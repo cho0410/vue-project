@@ -1,5 +1,6 @@
 <template>
   <HeaderCont />
+  <TitleCont name1="main" name2="Api" />
   <div class="main__cont">
     <div class="main__inner">
       <ul>
